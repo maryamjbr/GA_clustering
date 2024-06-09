@@ -82,7 +82,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn ucimlrepo
 2. Open the notebook file:
 
    ```bash
-   DataMining_Project3_HSM.ipynb
+   project6.ipynb
    ```
 
 3. Run the cells in the notebook sequentially to reproduce the analysis and results.

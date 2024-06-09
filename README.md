@@ -69,4 +69,19 @@ pip install numpy pandas matplotlib seaborn scikit-learn ucimlrepo
    ```bash
    cd GA_clustering
    ```
+### Running the Notebook
+
+1. Start Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+2. Open the notebook file:
+
+   ```bash
+   DataMining_Project3_HSM.ipynb
+   ```
+
+3. Run the cells in the notebook sequentially to reproduce the analysis and results.
 

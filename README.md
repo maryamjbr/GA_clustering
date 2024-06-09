@@ -40,6 +40,8 @@ The goal of the genetic algorithm is to find the best clustering of the iris dat
 ## Results
 
 The genetic algorithm successfully clusters the Iris dataset into three groups, corresponding to the three species of iris flowers. The final clustering solution is visualized using a scatter plot, demonstrating how the genetic algorithm has grouped the data points based on their features.
+![GA_clustering_project6 ipynb at main · maryamjbr_GA_clustering - Google Chrome 6_9_2024 7_43_22 PM](https://github.com/maryamjbr/GA_clustering/assets/135154626/9dd1efa0-7a14-480f-9b26-14f7112b911d)
+
 
 ## Dependencies
 

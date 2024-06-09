@@ -58,16 +58,15 @@ pip install numpy pandas matplotlib seaborn scikit-learn ucimlrepo
 
 ## How to Run
 
-1. Clone this repository.
-2. Install the dependencies.
-3. Run the script to fetch the dataset, visualize the data, perform PCA, and apply the genetic algorithm for clustering.
+1. Clone this repository to your local machine:
 
-```bash
-python script_name.py
-```
+   ```bash
+   git clone https://github.com/maryamjbr/GA_clustering.git
+   ```
 
-Replace `script_name.py` with the name of your script file.
+2. Navigate to the project directory:
 
-## License
+   ```bash
+   cd GA_clustering
+   ```
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
